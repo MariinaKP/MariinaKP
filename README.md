@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML, CSS, JavaScript, PHP, Laravel
 - 📫 How to reach me: 
           - LinkedIn https://www.linkedin.com/in/marina-pironeva-6a8254212/
-          - Email: marinapironeva79@gmail.com
+          - Email: pironevamarina@gmail.com
 
 <!---
 MariinaKP/MariinaKP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
