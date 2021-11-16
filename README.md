@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MariinaKP
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning HTML, CSS, JavaScript, PHP, Laravel
-- 📫 How to reach me: 
-          - LinkedIn https://www.linkedin.com/in/marina-pironeva-6a8254212/
+- 📫 How to reach me: <br>
+          - LinkedIn www.linkedin.com/in/marinapironeva <br>
           - Email: pironevamarina@gmail.com
 
 <!---
